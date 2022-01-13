@@ -1,6 +1,6 @@
 # Checkout the Deployed App 
 
-https://covid-19-tracker-2908e.web.app/
+Deployed with Google Firebase : https://covid-19-tracker-2908e.web.app/
 
 # Getting Started with Create React App
 
